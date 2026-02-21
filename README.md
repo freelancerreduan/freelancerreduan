@@ -1,7 +1,7 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-<img src="https://cdn.dribbble.com/userupload/24757488/file/original-b76f6ea77eddd9a2ff72b087024d7238.gif" width="250" />
+<img src="https://cdn.dribbble.com/userupload/24757488/file/original-b76f6ea77eddd9a2ff72b087024d7238.gif" width="100%" />
 
 # 👋 Hello, Welcome to My GitHub!
 
