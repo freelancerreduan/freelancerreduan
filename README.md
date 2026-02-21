@@ -1,7 +1,7 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-<img src="https://gifdb.com/images/high/hacker-anime-hacker-screen-1ltcrhcfh32rh17y.gif" width="50%" height="auto" />
+<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="70%" height="10vh" />
 
 # 👋 Hello, Welcome to My GitHub!
 
