@@ -5,7 +5,7 @@
 
 # 👋 Hello, Welcome to My GitHub!
 
-## I'm **Reduan**
+## I'm **Reduan Hossen**
 ### 💼 Professional Web Developer | Bitbirds Solutions
 
 🚀 I build high-performance, modern & business-focused web applications  
