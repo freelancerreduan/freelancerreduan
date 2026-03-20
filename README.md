@@ -1,15 +1,17 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="100%" height="auto" />
+<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="100%" />
 
-# 👋 Hello, Welcome to My GitHub!
+# 👋 Hi, I'm MD Reduan Hossen
 
-## I'm **Reduan Hossen**
-### 💼 Professional Web Developer | Bitbirds Solutions
+### 💼 Professional Web Developer  
+### 🚀 Bitbirds Solutions Software Company  
 
-🚀 I build high-performance, modern & business-focused web applications  
-🎯 Turning client ideas into powerful digital solutions
+💡 I build modern, scalable & business-focused web applications  
+🎯 Turning ideas into powerful digital products  
+
+<img src="https://komarev.com/ghpvc/?username=reduan360bd&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -17,46 +19,41 @@
 
 # 🧑‍💼 About Me
 
-I am a **Professional Web Developer** currently working at **Bitbirds Solutions Software Company**.  
+I am a **Professional Web Developer** currently working at **Bitbirds Solutions Software Company**.
 
-With strong expertise in modern web technologies, I specialize in building fast, secure, scalable, and conversion-focused websites and web applications.
+🔹 **Job Experience:** 6 Months  
+🔹 **Local Experience:** 1+ Years  
 
-I don't just write code —  
-I build digital solutions that help businesses grow.
+I specialize in building:
 
-✔ Clean & Maintainable Code  
-✔ Performance Optimized Architecture  
-✔ Modern UI/UX Focused Development  
-✔ Client Satisfaction is My First Priority  
+✔ High-performance web applications  
+✔ Secure & scalable backend systems  
+✔ Conversion-focused business websites  
 
-If you are looking for a reliable developer who understands business needs and delivers professional results — you are in the right place.
+💬 I don't just write code — I create **solutions that grow businesses**
 
 ---
 
-# 🛠️ My Skill Set
+# ⚡ Tech Stack
 
 <div align="center">
 
-## 🌐 Frontend Development
+### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
 
----
-
-## ⚙️ Backend Development
+### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=php,laravel" />
 
----
-
-## 🧩 CMS & Platforms
+### 🧩 CMS & Tools
 <img src="https://skillicons.dev/icons?i=wordpress" />
-<br/>
-💡 LMS Script Customization & Development
+
+💡 LMS Development & Customization
 
 </div>
 
 ---
 
-# 🌟 Successfully Developed Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
@@ -82,24 +79,45 @@ If you are looking for a reliable developer who understands business needs and d
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=reduan360bd&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=reduan360bd&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reduan360bd&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reduan360bd&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-# 🤝 Let’s Work Together
+# 💼 Experience
+
+💼 **Web Developer** — Bitbirds Solutions  
+📅 6 Months Professional Experience  
+
+🏢 **Local Projects & Freelancing**  
+📅 1+ Years Experience  
+
+---
+
+# 🎯 What I Offer
+
+✔ Custom Web Application Development  
+✔ Laravel Backend Development  
+✔ API Development & Integration  
+✔ E-commerce & Business Website  
+✔ Bug Fixing & Performance Optimization  
+
+---
+
+# 🤝 Let's Work Together
 
 <div align="center">
 
-If you need a professional website, business platform, or custom web solution —  
-I’m ready to help you build it.
+🚀 Need a professional website or web solution?
+
+I’m ready to help you build something amazing.
 
 </div>
 
@@ -119,9 +137,8 @@ I’m ready to help you build it.
 
 <div align="center">
 
-💼 Currently Working at **Bitbirds Solutions Software Company**  
-🚀 Open for Freelance & Collaboration Opportunities  
+✨ *"Code. Build. Grow."*  
 
-<img src="https://komarev.com/ghpvc/?username=reduan360bd&style=for-the-badge"/>
+🚀 Open for Freelance & Collaboration
 
 </div>
