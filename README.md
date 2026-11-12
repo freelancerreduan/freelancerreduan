@@ -1,144 +1,175 @@
-<!-- HERO SECTION -->
+<!-- ═══════════════════ HERO ═══════════════════ -->
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=SMART%20BD%20HOST&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Hosting%20%E2%80%A2%20Web%20Development%20%E2%80%A2%20Digital%20Growth&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-# 👋 Hi, I'm MD Reduan Hossen
+<a href="https://github.com/reduan360bd">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Fast+%26+Secure+cPanel+Hosting+%E2%9A%A1;BDIX+%2B+Germany+Servers+%F0%9F%8C%8D;Custom+Websites+%26+Laravel+Apps+%F0%9F%9A%80;WordPress+%7C+WooCommerce+%7C+Shopify+%F0%9F%9B%92;Ads%2C+SEO+%26+Digital+Marketing+%F0%9F%93%88" alt="Typing SVG" />
+</a>
 
-### 💼 Professional Web Developer  
-### 🚀 Bitbirds Solutions Software Company  
+<br/>
 
-💡 I build modern, scalable & business-focused web applications  
-🎯 Turning ideas into powerful digital products  
-
-<img src="https://komarev.com/ghpvc/?username=reduan360bd&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/badge/Founder-MD%20Reduan%20Hossen-00D9FF?style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-2c5364?style=for-the-badge&labelColor=0f2027"/>
+<img src="https://img.shields.io/badge/Clients-30%2B%20Hosted-22c55e?style=for-the-badge&labelColor=0f2027"/>
 
 </div>
 
----
+<br/>
 
-# 🧑‍💼 About Me
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
+<h2 align="center">🏢 About SMART BD HOST</h2>
 
-I am a **Professional Web Developer** currently working at **Bitbirds Solutions Software Company**.
+<p align="center">
+<b>SMART BD HOST</b> is a one-stop digital partner for businesses in Bangladesh and beyond.<br/>
+From <b>reliable hosting</b> to <b>custom web development</b> and <b>growth marketing</b> —<br/>
+we help you <b>launch, run and scale</b> your business online. 🌐
+</p>
 
-🔹 **Job Experience:** 6 Months  
-🔹 **Local Experience:** 1+ Years  
+<table align="center">
+<tr>
+<td align="center" width="25%">🛡️<br/><b>Secure</b><br/><sub>Cloudflare protected</sub></td>
+<td align="center" width="25%">⚡<br/><b>Fast</b><br/><sub>BDIX & Germany servers</sub></td>
+<td align="center" width="25%">🤝<br/><b>Reliable</b><br/><sub>30+ happy clients</sub></td>
+<td align="center" width="25%">💬<br/><b>Supportive</b><br/><sub>Human, real support</sub></td>
+</tr>
+</table>
 
-I specialize in building:
+<br/>
 
-✔ High-performance web applications  
-✔ Secure & scalable backend systems  
-✔ Conversion-focused business websites  
+<!-- ═══════════════════ SERVICES ═══════════════════ -->
+<h2 align="center">🚀 Our Services</h2>
 
-💬 I don't just write code — I create **solutions that grow businesses**
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### ☁️ Hosting & Domain
+- 🖥️ cPanel Shared & **Reseller Hosting**
+- 🇧🇩 **BDIX** high-speed servers
+- 🇩🇪 **Germany** global servers
+- 🛡️ **Cloudflare** CDN, SSL & security
+- 📦 Website migration & setup
 
-# ⚡ Tech Stack
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### 💻 Web Development
+- 🎨 Custom business websites
+- ⚙️ **Laravel** web apps & REST APIs
+- 🎓 LMS platforms & custom systems
+- 🧩 **WordPress** design & customization
+- 🐞 Bug fixing & speed optimization
 
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=php,laravel" />
+### 🛒 E-commerce
+- 🛍️ **WooCommerce** stores
+- 🏪 **Shopify** setup & fixes
+- 🧾 Product catalog & checkout setup
+- 🔗 Merchant Center integration
 
-### 🧩 CMS & Tools
-<img src="https://skillicons.dev/icons?i=wordpress" />
+</td>
+<td width="50%" valign="top">
 
-💡 LMS Development & Customization
+### 📈 Marketing & Creative
+- 📣 **Facebook & Google** product ads
+- 🔍 Technical **SEO** & Search Console
+- 🎬 Product video editing
+- 🖌️ Graphic design & branding
 
-</div>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-### 🎓 Pencilbox  
-🔗 https://pencilbox.edu.bd/
-
----
-
-### 🧪 EAL Metabolab  
-🔗 https://eal-metabolab.com/
-
----
-
-### 🏢 BPFZ  
-🔗 http://bpfzbd.com/
-
----
-
-### 🛒 ETC Sell BD  
-🔗 https://etcsellbd.com/
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=reduan360bd&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reduan360bd&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-# 💼 Experience
-
-💼 **Web Developer** — Bitbirds Solutions  
-📅 6 Months Professional Experience  
-
-🏢 **Local Projects & Freelancing**  
-📅 1+ Years Experience  
-
----
-
-# 🎯 What I Offer
-
-✔ Custom Web Application Development  
-✔ Laravel Backend Development  
-✔ API Development & Integration  
-✔ E-commerce & Business Website  
-✔ Bug Fixing & Performance Optimization  
-
----
-
-# 🤝 Let's Work Together
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<h2 align="center">⚡ Tech We Use</h2>
 
 <div align="center">
 
-🚀 Need a professional website or web solution?
-
-I’m ready to help you build something amazing.
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,php,laravel,mysql,wordpress,linux,cloudflare,git,github&perline=7" />
 
 </div>
 
----
+<br/>
 
-# 📬 Contact Me
+<!-- ═══════════════════ PROCESS ═══════════════════ -->
+<h2 align="center">🔄 How We Work</h2>
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-reduan360bd-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/reduan360bd)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-reduan360bd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reduan360bd)
+| 1️⃣ Discuss | 2️⃣ Plan | 3️⃣ Build | 4️⃣ Launch | 5️⃣ Support |
+|:---:|:---:|:---:|:---:|:---:|
+| Understand your goal | Choose the right solution | Clean, tested work | Go live with confidence | We stay with you |
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+<h2 align="center">🌟 Featured Work</h2>
 
 <div align="center">
 
-✨ *"Code. Build. Grow."*  
-
-🚀 Open for Freelance & Collaboration
+<a href="https://pencilbox.edu.bd/"><img src="https://img.shields.io/badge/🎓_Pencilbox-Visit-00D9FF?style=for-the-badge&labelColor=0f2027"/></a>
+<a href="https://eal-metabolab.com/"><img src="https://img.shields.io/badge/🧪_EAL_Metabolab-Visit-00D9FF?style=for-the-badge&labelColor=0f2027"/></a>
+<a href="http://bpfzbd.com/"><img src="https://img.shields.io/badge/🏢_BPFZ-Visit-00D9FF?style=for-the-badge&labelColor=0f2027"/></a>
+<a href="https://etcsellbd.com/"><img src="https://img.shields.io/badge/🛒_ETC_Sell_BD-Visit-00D9FF?style=for-the-badge&labelColor=0f2027"/></a>
 
 </div>
+
+<br/>
+
+<!-- ═══════════════════ WHY US ═══════════════════ -->
+<h2 align="center">💎 Why Choose Us?</h2>
+
+<div align="center">
+
+✅ Hosting + Development + Marketing — **all under one roof**<br/>
+✅ Local servers for Bangladesh, global servers for the world<br/>
+✅ Clean, production-ready code with honest timelines<br/>
+✅ ⭐ **100% Job Success** & 5-star reviews on Upwork
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ STATS ═══════════════════ -->
+<h2 align="center">📊 GitHub Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=reduan360bd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reduan360bd&theme=tokyonight&hide_border=true&background=0f2027" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reduan360bd&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=00D9FF&line=2c5364&point=ffffff" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ CONTACT ═══════════════════ -->
+<h2 align="center">📬 Let's Build Something Great</h2>
+
+<div align="center">
+
+<a href="https://fb.com/reduan360bd"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://linkedin.com/in/reduan360bd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/reduan360bd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=reduan360bd&label=Profile%20Views&style=for-the-badge&color=00D9FF&labelColor=0f2027"/>
+
+<br/><br/>
+
+<b>🌐 SMART BD HOST</b> — <i>Host. Build. Grow.</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
